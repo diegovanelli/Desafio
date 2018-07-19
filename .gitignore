@@ -1,0 +1,16 @@
+**/classes/
+**/target/
+**/build/
+**/dist/
+**/bin/
+**/VAADIN/
+**/.settings/
+
+**/*.class
+
+/bin/
+/dist/
+/build/
+/target/
+/VAADIN/
+/.settings/
